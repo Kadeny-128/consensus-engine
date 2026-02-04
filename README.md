@@ -1,4 +1,4 @@
-AI Lead Identification Engine (Drug Discovery)
+# AI Lead Identification Engine for Drug Discovery
 
 A V1 prototype of an agentic swarm for identifying and verifying pharmaceutical drug targets.
 
