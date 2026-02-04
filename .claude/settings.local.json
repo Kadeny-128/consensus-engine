@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(/Users/kadenyeung/Library/Python/3.9/bin/streamlit run app.py)",
+      "Bash(python:*)",
+      "Bash(streamlit run:*)"
+    ]
+  }
+}
